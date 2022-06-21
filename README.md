@@ -78,12 +78,12 @@ Port: 5005
 ```
 
 **EP_5**
-> Method: GET
-> EndPoint: /object_info_3
-> request url params: 
->  name: str
->  age: int
->  salary: int
+> Method: GET  
+> EndPoint: /object_info_3  
+> request url params:  
+>  name: str  
+>  age: int  
+>  salary: int  
 
 **response:**
 ```
